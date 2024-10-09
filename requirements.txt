@@ -22,7 +22,6 @@ grpcio-status==1.66.1
 httplib2==0.22.0
 idna==3.8
 msgpack==1.0.8
-patchelf==0.17.2.1
 pillow==10.4.0
 proto-plus==1.24.0
 protobuf==5.28.0
